@@ -148,6 +148,8 @@ Reload NGINX to apply changes:
 
 ```bash
 sudo systemctl reload nginx
+
+
 ```
 
 ---
@@ -155,3 +157,5 @@ sudo systemctl reload nginx
 ## Step 9 — Verify the Deployment
 
 Visited `https://ahamid.dev` in the browser and confirmed the site was live and secure.
+
+<img width="1440" height="897" alt="Screenshot 2026-05-16 at 20 13 33" src="https://github.com/user-attachments/assets/a56df180-1574-44bf-b54c-b095bc66519e" />
